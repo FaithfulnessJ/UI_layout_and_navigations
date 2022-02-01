@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI_layout_and_navigations</string>
+    <string name="to_home">Home</string>
+    <string name="to_profile">Profile</string>
+    <string name="to_students">Students</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="This_is_home_Fragment">This is Home Fragment</string>
+    <string name="This_is_Profile_Fragment">This is Profile Fragment</string>
+    <string name="This_Students_Fragment">This is Students Fragment</string>
+</resources>
